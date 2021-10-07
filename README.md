@@ -1,3 +1,4 @@
-<h1> Hello there, I'm <a href="https://www.linkedin.com/in/evazban/" target="_blank" >Emiliano</a></h1>
---- Work in Progress ---
+### Hi there, I'm Emiliano 😊
 
+## I'm telematics student and Developer
+- 📕 I'm currently doing my last semester of my career at Faculty of Telematics
