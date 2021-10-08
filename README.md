@@ -9,8 +9,8 @@
 
 <p align="center">
  <a href="#">
-  <img alt="my web site" title="My Personal Web Site" width="40px" src="https://img-premium.flaticon.com/png/512/878/premium/878710.png?token=exp=1633637415~hmac=22b38559f2c326cd7c2482983e94f2ba" />&nbsp;&nbsp;
- </a>
+  <!-- <img alt="my web site" title="My Personal Web Site" width="40px" src="https://img-premium.flaticon.com/png/512/878/premium/878710.png?token=exp=1633637415~hmac=22b38559f2c326cd7c2482983e94f2ba" />&nbsp;&nbsp;
+ </a> -->
  <a href="https://www.linkedin.com/in/evazban">
   <img alt="evazban LinkedIn" title="Find me on LinkedIn" width="40px" src="https://static-exp1.licdn.com/sc/h/al2o9zrvru7aqj8e1x2rzsrca" />&nbsp;&nbsp;
  </a>
