@@ -3,7 +3,7 @@
 ### I'm a telematics student and Developer
 - 📕 I'm currently doing my last semester of my career at the Faculty of Telematics
 - 💻 I'm currently learning Frontend technologies 🌐
-- 📌 My goals for this 2021: Obtain enough experience in Web development in order to had the possibilitie to work in a IT Company 🏢 as a Frontend Developer 💼
+- 📌 My goals for 2021: Obtain enough experience in Web development in order to had the possibilitie to work in a IT Company 🏢 as a Frontend Developer 💼
 
 ### Connect with me:
 
