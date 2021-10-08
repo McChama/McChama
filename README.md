@@ -1,6 +1,6 @@
 ## Hi there, I'm Emiliano 😊👋
 
-### I'm a telematics student and Developer
+### I'm a telematics student and developer
 - 📕 I'm currently doing my last semester of my career at the Faculty of Telematics
 - 💻 I'm currently learning Frontend technologies 🌐
 - 📌 My goals for 2021: To obtain enough experience in web development in order to have the possibility to work at an IT Company 🏢 as a Frontend Developer 💼
