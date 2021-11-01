@@ -1,4 +1,9 @@
-## Hi there, I'm Emiliano 😊👋
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0F0F&center=true&vCenter=true&lines=Hi+there!+%F0%9F%91%80;I'm+Emiliano+%F0%9F%98%8A">
+  </a>
+</h1>
+
 
 ### I'm a telematics student and developer
 - 📕 I'm currently doing my last semester of my career at the Faculty of Telematics
