@@ -41,10 +41,10 @@
 
 ## &#x1f4c8; My GitHub Stats
 <div align="center">
- <a href="https://github.com/mcchama/github-readme-stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcchama&theme=merko&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img src="https://github-readme-stats.vercel.app/api?username=mcchama&theme=merko" />
-</a>
- </div>
+  <a href="https://github.com/mcchama/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mcchama&langs_count=10&hide=html,hack,css&theme=tokyonight" />
+  </a>
+  <a href="https://github.com/anuraghazra/convoychat">
+    <img src="https://github-readme-stats.vercel.app/api/?username=mcchama&count_private=true&theme=tokyonight&showicons=true" />
+  </a>
+</div>
