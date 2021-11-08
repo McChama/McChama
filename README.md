@@ -3,7 +3,9 @@
     <img src="https://readme-typing-svg.herokuapp.com?color=%23FF0F0F&center=true&vCenter=true&lines=Hi+there!+%F0%9F%91%80;I'm+Emiliano+%F0%9F%98%8A">
   </a>
 </h1>
-
+<p align="right"> 
+  <img src="https://komarev.com/ghpvc/?username=mcchama&label=Profile%20views&color=0e75b6&style=flat" alt="McChama" /> 
+</p>
 
 ### I'm a telematics student and developer
 - 📕 I'm currently doing my last semester of my career at the Faculty of Telematics
