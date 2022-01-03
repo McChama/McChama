@@ -20,8 +20,9 @@
     <img title="HTML5" alt="HTML5" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />&nbsp;&nbsp;
     <img title="CSS3" alt="CSS3" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />&nbsp;&nbsp;
     <img title="JavaScript" alt="JS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;&nbsp;
-    <img title="React Native" alt="React Native" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;&nbsp;
+    <img title="React JS" alt="React Native" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;&nbsp;
     <img title="PHP" alt="PHP" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />&nbsp;&nbsp;
+    <img title="Java" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />&nbsp;&nbsp;
 </p>  
 
 
