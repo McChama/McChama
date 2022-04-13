@@ -10,19 +10,16 @@
 ### I'm a telematics student and developer
 - 📕 I'm currently doing my last semester of my career at the Faculty of Telematics
 - 💻 I'm currently learning Frontend technologies 🌐
-- 📌 My goals for 2021: To obtain enough experience in web development in order to have the possibility to work at an IT Company 🏢 as a Frontend Developer 💼
+- 📌 My goals for 2022: To obtain enough experience as a web developer in order to become a Jr Dev
 
 ### Languages and tools: 
 
 <p align="center">
     <img title="Visual Studio Code" alt="Visual Studio Code" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />&nbsp;&nbsp;
     <img title="Git" alt="Git" width="30px" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_git_icon_130581.png" />&nbsp;&nbsp;
-    <img title="HTML5" alt="HTML5" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732212.png" />&nbsp;&nbsp;
-    <img title="CSS3" alt="CSS3" width="30px" src="https://cdn-icons-png.flaticon.com/512/732/732190.png" />&nbsp;&nbsp;
     <img title="JavaScript" alt="JS" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />&nbsp;&nbsp;
     <img title="React JS" alt="React Native" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />&nbsp;&nbsp;
-    <img title="PHP" alt="PHP" width="30px" src="https://cdn-icons-png.flaticon.com/512/919/919830.png" />&nbsp;&nbsp;
-    <img title="Java" alt="Java" width="30px" src="https://cdn-icons-png.flaticon.com/512/226/226777.png" />&nbsp;&nbsp;
+    <img title="Ruby" alt="Ruby" width="30px" src="https://cdn-icons-png.flaticon.com/512/6132/6132219.png" />&nbsp;&nbsp;
 </p>  
 
 
