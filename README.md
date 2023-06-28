@@ -7,10 +7,12 @@
   <img src="https://komarev.com/ghpvc/?username=mcchama&label=Profile%20views&color=0e75b6&style=flat" alt="McChama" /> 
 </p>
 
+<!--
 ### I'm a telematics student and developer
 - 📕 I'm currently doing my last semester of my career at the Faculty of Telematics
 - 💻 I'm currently learning Frontend technologies 🌐
 - 📌 My goals for 2022: To obtain enough experience as a web developer in order to become a Jr Dev
+-->
 
 ### Languages and tools: 
 
